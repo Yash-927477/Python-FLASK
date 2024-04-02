@@ -1,6 +1,4 @@
 #************ Yash Narayan
-#************ A00279380
-#************ ANA1001 MidTerm
 
 import random
 
